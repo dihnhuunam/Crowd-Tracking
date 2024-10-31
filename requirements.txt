@@ -18,3 +18,4 @@ h5py==3.7.0
 joblib==1.2.0
 tqdm==4.64.1
 matplotlib==3.6.2
+ipython==8.11.0
