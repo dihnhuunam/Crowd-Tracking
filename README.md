@@ -30,7 +30,7 @@ Run the `setup.sh` script to install all required packages and dependencies.
 
 2. **Download the dataset**:
    - Download the ShanghaiTech dataset from [Kaggle](https://www.kaggle.com/datasets/tthien/shanghaitech).
-   - Place the dataset in the `data` folder in the repository directory. Make sure it follows the required structure as specified in the code or preprocessing script.
+   - Place the dataset as the `input` folder in the repository directory. Make sure it follows the required structure as specified in the code or preprocessing script.
 
 3. **Install dependencies**:
    - Run `setup.sh`:
