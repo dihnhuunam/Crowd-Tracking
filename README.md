@@ -38,17 +38,7 @@ Run the `setup.sh` script to install all required packages and dependencies.
      ./setup.sh
      ```
 
-4. **Run the training script**:
-   - Start training with the following command:
-     ```bash
-     python train.py
-     ```
-
-5. **Run the testing script**:
-   - Start testing with the following command:
-     ```bash
-     python test.py
-     ```
+4. **Run main.ipynb**
 
 
 ## Results
